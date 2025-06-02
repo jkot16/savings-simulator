@@ -21,7 +21,7 @@
 
 
 
-## 1. 🔎 Project Overview
+## 1. Project Overview
 
 **Savings Simulator v1.0** is a local Java-based application designed to help users **understand, simulate, and optimize their financial future**.  
 
@@ -29,7 +29,7 @@ By combining income, bank interest, and cryptocurrency dynamics, it enables real
 
 Whether you're tracking stable deposits or exploring volatile assets like Ethereum, this tool empowers you to **plan with data, test custom strategies, and build financial awareness** — all in a clear, interactive environment.
 
-## 2. 🧠 Features
+## 2. Features
 
 - Load simulation data from `.txt` files  
 - Visualize savings with **line and area charts**  
@@ -42,7 +42,7 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 
 ---
 
-## 3. ⚙️ Tech Stack
+## 3. Tech Stack
 
 | Layer         | Technology                  |
 |---------------|-----------------------------|
@@ -57,7 +57,7 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 
 ---
 
-## 4. 🧱 Architecture & Components
+## 4. Architecture & Components
 
 | Component            | Description                                                   |
 |---------------------|---------------------------------------------------------------|
@@ -71,7 +71,7 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 
 ---
 
-## 5. 📦 Installation & Usage
+## 5. Installation & Usage
 
 1. Clone the repository:
    ```bash
@@ -85,10 +85,10 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 
 3. Run MainGUI.java to launch the application.
 
-> 💾 Sample input data for `ModelSavings` is available in the [`sampleData`](sampleData/) folder for quick testing.
+> 💾 Sample input data for `Savings-Simulator` is available in the [`sampleData`](sampleData/) folder for quick testing.
 ---
 
-## 6. 🧪 Running Scripts
+## 6. Running Scripts
 
 - **Scripts > Write Script** – opens the built-in script editor panel (with syntax highlighting)  
 - **Scripts > Open Script** – lets you select a `.groovy` file from your computer and **immediately executes** it if valid
@@ -108,14 +108,14 @@ After execution, your custom variables are available for visualization and furth
 ![editor](pngs/editor.png)
 
 ---
-## 7. 📤 Exporting Results
+## 7. Exporting Results
 
 Use **Scripts > Get Results** to retrieve simulation output directly as tab-separated values.  
 Ideal for direct pasting into Excel, Google Sheets, or any spreadsheet tool for further analysis.
 ![results](pngs/results.png)
 
 
-## 8. 📊 Charts & Visualization
+## 8. Charts & Visualization
 
 Available under **Charts > Linear chart** or **Area chart**
 
@@ -128,7 +128,7 @@ Available under **Charts > Linear chart** or **Area chart**
 
 ---
 
-## 9. 📁 File Format & Data Loading
+## 9. File Format & Data Loading
 
 **Input:** `.txt` file with tab-separated values  
 **Example structure:**
@@ -146,7 +146,7 @@ Each row represents a variable; values are automatically bound to the simulation
 
 ---
 
-## 10. 🗺️ Roadmap
+## 10. Roadmap
 
 
 ---
