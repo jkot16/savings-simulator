@@ -1,7 +1,7 @@
 # Savings-Simulator v1.0
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)![Version](https://img.shields.io/badge/Version-1.0-green)
 
-![main](https://github.com/user-attachments/assets/ea1573e5-0739-4b76-9629-ef891043a5ca)
+![main](pngs/main.png)
 
 
 
@@ -37,7 +37,8 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 - Real-time **log viewer** with filtering (INFO / WARNING / ERROR)  
 - Dynamic model switching and flexible architecture  
 - Stylish GUI with **FlatLaf dark theme**
-![log](https://github.com/user-attachments/assets/498d2563-f841-4f45-a7ca-2d67b0699029)
+![log](pngs/log.png)
+
 
 ---
 
@@ -84,7 +85,7 @@ Whether you're tracking stable deposits or exploring volatile assets like Ethere
 
 3. Run MainGUI.java to launch the application.
 
-   
+> 💾 Sample input data for `ModelSavings` is available in the [`sampleData`](sampleData/) folder for quick testing.
 ---
 
 ## 6. 🧪 Running Scripts
@@ -104,14 +105,14 @@ for (int i = 0; i < LL; i++) {
 ```
 
 After execution, your custom variables are available for visualization and further computation.
-![editor](https://github.com/user-attachments/assets/e22d4c78-9e86-4d37-a37a-097a76ef30d1)
+![editor](pngs/editor.png)
 
 ---
 ## 7. 📤 Exporting Results
 
 Use **Scripts > Get Results** to retrieve simulation output directly as tab-separated values.  
 Ideal for direct pasting into Excel, Google Sheets, or any spreadsheet tool for further analysis.
-![results](https://github.com/user-attachments/assets/0e38d38b-6496-45de-8d17-e93213979614)
+![results](pngs/results.png)
 
 
 ## 8. 📊 Charts & Visualization
@@ -121,8 +122,8 @@ Available under **Charts > Linear chart** or **Area chart**
 - **Line Chart**: Displays total savings over time  
 - **Area Chart**: Cumulative visualization of income, ETH profit, and total savings  
 - Powered by **JFreeChart** with custom rendering and stylization
-![linear](https://github.com/user-attachments/assets/36c724f0-27b9-45eb-ad07-9f3825647380)
-![area](https://github.com/user-attachments/assets/d7f4fbc5-70d8-4a07-816f-323e957d9c7b)
+![linear](pngs/linear.png)  
+![area](pngs/area.png)
 
 
 ---
