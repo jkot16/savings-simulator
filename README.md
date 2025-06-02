@@ -147,6 +147,8 @@ Each row represents a variable; values are automatically bound to the simulation
 ---
 
 ## 10. Roadmap
+For more upcoming features and tracked improvements, see:  
+👉 [GitHub Issues for Cerberus](https://github.com/jkot16/savings-simulator/issues)
 
 
 ---
