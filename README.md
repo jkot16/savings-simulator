@@ -3,7 +3,7 @@
 
 ![main](pngs/main.png)
 
-
+---
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 9. [📁 File Format & Data Loading](#9-file-format--data-loading)  
 10. [🗺️ Roadmap](#10-roadmap)  
 
-
+---
 
 
 ## 1. Project Overview
@@ -28,6 +28,8 @@
 By combining income, bank interest, and cryptocurrency dynamics, it enables realistic modeling of savings growth across time.  
 
 Whether you're tracking stable deposits or exploring volatile assets like Ethereum, this tool empowers you to **plan with data, test custom strategies, and build financial awareness** — all in a clear, interactive environment.
+
+---
 
 ## 2. Features
 
@@ -114,6 +116,7 @@ Use **Scripts > Get Results** to retrieve simulation output directly as tab-sepa
 Ideal for direct pasting into Excel, Google Sheets, or any spreadsheet tool for further analysis.
 ![results](pngs/results.png)
 
+---
 
 ## 8. Charts & Visualization
 
